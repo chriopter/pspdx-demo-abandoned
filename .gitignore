@@ -1,0 +1,6 @@
+# build output
+*.o
+*.elf
+PARAM.SFO
+EBOOT.PBP
+dist/
